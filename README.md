@@ -1,8 +1,13 @@
 # GS-Virtual-Internship
 
-**Goldman Sachs Excel Skills for Business Virtual Experience Program @Forage**
+This repository contains the submitted files of the various tasks assigned by Goldman Sachs Excel Skills for Business Virtual Internship.
 
-*Personal solutions for task 1 to task 5*
+**Tools**
+- Excel
+
+**Goldman Sachs Excel Skills for Business Virtual Experience Program @ Forage**
+
+Personal solutions for task 1 to task 5
 
 Task 1 Basic Excel Skills
 
@@ -14,3 +19,4 @@ Task 4 Forecasting Cash Flows
 
 Task 5 Creating Outputs in Excel
 
+*Gain the basic **Excel** skills professionals in business & finance use every day.*
